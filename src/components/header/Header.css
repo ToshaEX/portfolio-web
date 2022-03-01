@@ -68,13 +68,14 @@ header {
 /* ======================= MEDIA QUERIES (SMALL DEVICES) ======================= */
 @media screen and (max-width: 600px) {
   header {
-    height: 100vh;
+    height: 125vh;
   }
   .header__socials,
   .scroll__down {
     display: none;
   }
   .me{
+    
      left: calc(50% - 11rem );
   }
 
